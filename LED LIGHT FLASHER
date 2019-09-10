@@ -1,0 +1,47 @@
+FLOW CHART!
+REPRESENTS : ALGORITHM /  WORKFLOW  /  PROCESS
+1. Initialize count = 0    (PROCESS)
+
+2. Print Hello World    (I/O)
+
+3. Increment count by 1 (PROCESS)
+
+4. Is count < 10 (DECISION)
+
+5. if YES go to step 2
+    else Stop
+
+IDE INTRODUCTION & DISPLAY
+PORT & BOARD SELECTION
+EXECUTION & UPLOADING
+DEFAULT EXAMPLES
+Name of current sketch
+Main menus
+Action buttons/icons
+Verify (AKA compile)
+
+Upload (send to Arduino)
+
+Start a new sketch
+
+Open a sketch (from a file)
+
+Save current sketch (to a file)
+
+Open Serial Monitor window
+BOARD SELECTION LED FLASHER
+OHMS LAW
+KIRCHHOFF'S LAW 
+
+PORT SELECTION 
+//the setup process runs when you reset the board
+Void setup() {
+//initialize pins to led through pinmode
+
+REAL WORLD APPLICATION OF
+ KIRCHHOFF’S CURRENT LAW
+ KIRCHHOFF’S VOLTAGE LAW
+DESIGN A DIGITAL DICE
+ONLY GENERATES AND HOLD'S ONE NUMBER WHEN YOU POWER ARDUINO
+IF USER PRESSES RESET BUTTON NEW NUMBER SHOULD BE GENERATED AND HOLD TILL IT IS ON
+
